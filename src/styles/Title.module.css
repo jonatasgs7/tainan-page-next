@@ -1,1 +1,5 @@
 .title {font-size:90px; margin:0; line-height:100%; color:var(--secondaryColor); font-weight:700;}
+
+@media (max-width:768px){
+.title {font-size:64px;}
+}

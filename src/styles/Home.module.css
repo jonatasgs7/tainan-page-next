@@ -10,5 +10,5 @@
 @media (max-width:768px){
 .main {flex-direction:column;}
 .module_text {width:100%; }
-.module_socials {width:100%; padding-top:15px;}
+.module_socials {width:100%; padding:15px;}
 }

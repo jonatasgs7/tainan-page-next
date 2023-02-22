@@ -1,1 +1,5 @@
 .description {font-size:17px; color:var(--secondaryColor); font-weight:300; line-height:140%;}
+
+@media (max-width:768px){
+.description {font-size:15px;}
+}

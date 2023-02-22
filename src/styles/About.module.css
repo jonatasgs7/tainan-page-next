@@ -3,8 +3,7 @@
 .about_text {width:100%;}
 
 @media (max-width:768px){
-    .about {padding:140px 0 70px;}
-    .about_avatar {min-width:60px; height:60px;}
-    .about_avatar img {width:60px; height:60px;}
-    
+.about {padding:120px 0 60px;}
+.about_avatar {min-width:60px; height:60px;}
+.about_avatar img {width:60px; height:60px;}
 }
