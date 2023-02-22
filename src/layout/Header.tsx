@@ -6,7 +6,6 @@ export function Header(){
             <header className={styles.header}>
                 <div className={styles.logo}></div>
             </header>
-            <div className="header_height"></div>
         </>
     )
 }

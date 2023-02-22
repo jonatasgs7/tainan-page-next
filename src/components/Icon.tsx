@@ -8,8 +8,6 @@ interface Icons{
     highlight: boolean
 }
 
-
-
 export function Icon(props:Icons){
 
     const isHighlight = props.highlight === true ? styles.icon_highlight : ''

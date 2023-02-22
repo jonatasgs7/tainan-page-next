@@ -5,9 +5,5 @@ interface Title {
 }
 
 export function Title(props:Title){
-    return (
-        <>
-            <h2 className={styles.title}>{props.text}</h2>
-        </>
-    )
+    return <h2 className={styles.title}>{props.text}</h2>
 }

@@ -5,9 +5,5 @@ interface Description {
 }
 
 export function Description(props:Description){
-    return (
-        <>
-            <p className={styles.description}>{props.text}</p>
-        </>
-    )
+    return <p className={styles.description}>{props.text}</p>
 }
