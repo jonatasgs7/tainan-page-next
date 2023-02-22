@@ -1,0 +1,10 @@
+.about {max-width:700px; display:flex; justify-content:space-between; flex-wrap:nowrap; gap:15px; flex-shrink:1; margin:0 15px;}
+.about_avatar {min-width:100px; height:100px; overflow:hidden; border-radius:50%;}
+.about_text {width:100%;}
+
+@media (max-width:768px){
+    .about {padding:140px 0 70px;}
+    .about_avatar {min-width:60px; height:60px;}
+    .about_avatar img {width:60px; height:60px;}
+    
+}

@@ -1,0 +1,5 @@
+.socials {display:flex; justify-content:center; flex-direction:column; gap:10px; flex-wrap:wrap;}
+
+@media (max-width:768px){
+    .socials {flex-direction:row;}
+}
