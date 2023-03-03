@@ -13,6 +13,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#CAB693" />
         <meta name="robots" content="index, follow" />
+        <meta name="facebook-domain-verification" content="fjm30b2fzp1kfl328r5ewdv7g43tst" />
         <link rel="canonical" href="https://tainangaspar.com.br/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Tainan Gaspar - Social Media, Marketing Digital e Design" />
